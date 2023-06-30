@@ -2,7 +2,8 @@
 
 ## Descripción
 
-Este proyecto es un reloj animado que muestra la hora actual y permite cambiar sus colores.
+Este proyecto es un reloj animado que muestra la hora actual y permite cambiar sus colores. Hecho con HTML, CSS y JavaScript. Usando la
+librería Canvas.
 
 ## Uso
 
